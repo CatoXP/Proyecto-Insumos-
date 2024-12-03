@@ -1,0 +1,9 @@
+peso_base,variacion,precio_aproximado,uso,incidencia,uso_estimado_2024,costo_anual_aproximado
+0.0408,0.0005,32000,Artritis reumatoide,0.002,3856,123392000
+0.1,0.001,89000,Inmunoterapia contra cáncer,0.001,1928,171592000
+0.2,0.0015,28000,Enfermedades autoinmunes,0.0015,2892,80976000
+0.16,0.001,15000,Tratamiento oncológico,0.0008,1542,23130000
+0.05,0.0005,12000,Artritis reumatoide,0.001,1928,23136000
+0.025,0.0005,400,Hipertensión,0.1,192850,77140000
+0.5,0.0025,150,Diabetes tipo 2,0.08,154279,23141850
+0.075,0.0005,200,Hipotiroidismo,0.04,77139,15427800
